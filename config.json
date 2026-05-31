@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configspdate",
+        "uuid": 11342868,
+        "checksum": "q7ucfe"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
